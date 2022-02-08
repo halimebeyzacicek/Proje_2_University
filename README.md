@@ -1,5 +1,5 @@
 # Proje_2_University
-###  Bu projede Django uygulaması yapılmıştır. Bulut Veritabanı kullanan bir Haber Sitesi yapılmıştır.
+###  Bu projede bir Django uygulaması yapılmıştır. Bulut Veritabanı kullanan bir Haber Sitesi yapılmıştır.
 - Bu projede veriler Google Cloud' da tutulmuştur.
 - PostgreSQL kullanılmıştır. (pgAdmin)
 
