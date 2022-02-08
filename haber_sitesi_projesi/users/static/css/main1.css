@@ -1,0 +1,9 @@
+p{
+    background-image: url("sss.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    color: rgb(0, 0, 0);
+    text-indent:50px;
+}
